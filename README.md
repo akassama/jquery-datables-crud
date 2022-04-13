@@ -4,6 +4,8 @@
 # JQuery Datables in .NET Core with Export
 </div>
 <div class="col-12">
+.NET Core v3.1
+  
 Bootstrap v4.5.0
 
 jQuery v1.12.4
