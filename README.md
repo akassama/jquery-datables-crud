@@ -12,7 +12,6 @@ jQuery v1.12.4
 
 Datatables v1.10.19
 </div>
-</div>
 
 # Demo
 <div class="row text-left">
